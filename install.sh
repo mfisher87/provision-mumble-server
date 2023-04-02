@@ -10,4 +10,4 @@ apt-get install mumble-server
 dpkg-reconfigure mumble-server
 
 
-# Edit /etc/mumble-server.ini to customize
+echo "Edit /etc/mumble-server.ini to customize!"
